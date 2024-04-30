@@ -74,6 +74,7 @@ You can customize how the output data is saved by modifying the `file_path_sg` a
 ```python
 file_path_sg = 'output_snps.csv'  # Change this to your preferred output file path for successful SNP analyses
 failed_to_retrieve_file = 'failed_to_retrieve.csv'  # Change this for logging failed SNP retrievals
+```
 
 [Watch our tutorial video for VCF file on YouTube!](https://www.youtube.com/watch?v=lduh43umNCc)
 
