@@ -1,7 +1,7 @@
 # MissensExplorer
 
 
-This tool analyzes single nucleotide polymorphisms (SNPs) from Variant Call Format (VCF) files, focusing on identifying and reporting potential effects of these SNPs based on various genomic databases and annotations. The tool can handle individual SNP analysis or process whole VCF files.
+This tool analyzes single nucleotide polymorphisms (SNPs) from Variant Call Format (VCF) files, focusing on identifying and reporting potential effects of these SNPs, in human, based on various genomic databases and annotations. The tool can handle individual SNP analysis or process whole VCF files.
 
 ## Features
 
