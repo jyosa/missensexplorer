@@ -76,9 +76,11 @@ file_path_sg = 'output_snps.csv'  # Change this to your preferred output file pa
 failed_to_retrieve_file = 'failed_to_retrieve.csv'  # Change this for logging failed SNP retrievals
 
 [Watch our tutorial video for VCF file on YouTube!](https://www.youtube.com/watch?v=lduh43umNCc)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lduh43umNCc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 [Watch our tutorial video for SNP on YouTube!](https://www.youtube.com/watch?v=2y5LjD6Z92A)
-
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2y5LjD6Z92A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ```
@@ -140,6 +142,8 @@ python agentsmith.py TUBA1A V409A your_email@example.com
 ```
 
 [Watch our tutorial video for SNP on YouTube!](https://www.youtube.com/watch?v=J19IQ_NZSGQ)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=J19IQ_NZSGQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 # Powered by
