@@ -74,10 +74,18 @@ You can customize how the output data is saved by modifying the `file_path_sg` a
 ```python
 file_path_sg = 'output_snps.csv'  # Change this to your preferred output file path for successful SNP analyses
 failed_to_retrieve_file = 'failed_to_retrieve.csv'  # Change this for logging failed SNP retrievals
+
+[Watch our tutorial video for VCF file on YouTube!](https://www.youtube.com/watch?v=lduh43umNCc)
+
+[Watch our tutorial video for SNP on YouTube!](https://www.youtube.com/watch?v=2y5LjD6Z92A)
+
+
+
 ```
 ### Viewing Output Data
 
 The output CSV files can be opened with any text editor, spreadsheet software like Microsoft Excel or Google Sheets, or processed through additional scripts for further analysis.
+
 
 
 ## Agent Smith
@@ -130,6 +138,9 @@ Example:
 ```bash
 python agentsmith.py TUBA1A V409A your_email@example.com
 ```
+
+[Watch our tutorial video for SNP on YouTube!](https://www.youtube.com/watch?v=J19IQ_NZSGQ)
+
 
 # Powered by
 
