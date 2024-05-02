@@ -57,8 +57,15 @@ The program supports several command line arguments to specify its operation:
 To process a VCF file and analyze the SNPs for a given individual:
 
 ```bash
-python your_script.py --mode vcf --vcf_file path/to/file.vcf --individual JohnDoe --email user@example.com --cores 4
+python missenexplorer.py --mode vcf --vcf_file path/to/file.vcf --individual JohnDoe --email user@example.com --cores 4
 ```
+
+For a single SNP:
+
+```bash
+python missenexplorer.py --mode snp --chro chr1 --pos 953279 --ref_alle T --alt_alle C --zygosity Homozygous --email user@example.com
+```
+
 
 ## Output Configuration
 
