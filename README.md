@@ -83,7 +83,7 @@ failed_to_retrieve_file = 'failed_to_retrieve.csv'  # Change this for logging fa
 
 
 
-```
+
 ### Viewing Output Data
 
 The output CSV files can be opened with any text editor, spreadsheet software like Microsoft Excel or Google Sheets, or processed through additional scripts for further analysis.
