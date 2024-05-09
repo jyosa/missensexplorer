@@ -154,7 +154,7 @@ python agentsmith.py TUBA1A V409A your_email@example.com
 
 # Powered by
 
-### Universidad Simón Bolíbar Barranquilla 
+### Universidad Simón Bolívar Barranquilla 
 ### Escuela Nacional del Deporte
 
 - Briyis Fontecha briyis.fontecha@unisimon.edu.co
